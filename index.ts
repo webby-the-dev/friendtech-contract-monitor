@@ -1,5 +1,5 @@
 import { ethers } from "ethers";
-import { contract } from "./contract";
+import { contract } from "./friendtechContract";
 
 contract
   .on(

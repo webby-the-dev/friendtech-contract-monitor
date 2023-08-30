@@ -5,9 +5,10 @@ It connects directly to friend.tech contract and listens to all `Trade` events. 
 
 ### Running
 
-1. Copy paste `.env.example` file, rename it to `.env` and put websocket url to `WEBSOCKET_PROVIDER=`. You can get it on [Quicknode](https://www.quicknode.com/) or [Blast API](https://blastapi.io/) for free.
-2. `npm install`
-3. `npm start`
+1. Install `node` - [link](https://nodejs.org/)
+2. Copy paste `.env.example` file, rename it to `.env` and put websocket url to `WEBSOCKET_PROVIDER=`. You can get it on [Quicknode](https://www.quicknode.com/) or [Blast API](https://blastapi.io/) for free.
+3. `npm install`
+4. `npm start`
 
 Enjoy :)
 
