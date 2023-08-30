@@ -1,4 +1,4 @@
-### Friend.tech contract monitor
+# Friend.tech contract monitor
 
 Simple monitor/scanner for new users on friend.tech.
 It connects directly to friend.tech contract and listens to all `Trade` events. It checks if it is a new account and `console.log`'s it. That's it. Pretty simple.
