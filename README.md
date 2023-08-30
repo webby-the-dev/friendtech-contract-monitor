@@ -16,6 +16,8 @@ Enjoy :)
 
 For some reason event listener stops getting new data after few hours and you have to restart it to make it work again. I've added "Heartbeat" pinging every two minutes but it does not work. It still closes websocket connection for unknown reason. I've tried different websocket providers but same result.
 
+Another thing is that for some reason sometimes you get doubled, tripled events... Not sure what the problem is. Could be a websocket.
+
 ### Contact
 
 If you have any questions or problems you can contact me on
